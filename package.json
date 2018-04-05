@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.4.0",
+    "concurrently": "^3.5.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "^1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "npm run server --prefix server",
+    "dev": "concurrently \"npm run start\" \"npm run server\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "redux-form": "^7.3.0"
+  }
+}

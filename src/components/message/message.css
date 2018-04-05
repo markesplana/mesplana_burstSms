@@ -1,0 +1,41 @@
+ul {
+    list-style: none;
+    padding: 0;
+    width: 30%;
+    margin: auto;
+}
+
+li {
+    font-size: 1.3rem;
+    line-height: 2rem;
+    border-bottom: 1px dotted #777;
+}
+.message-container{
+    height: 180px !important;
+}
+
+/* 
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 992px){
+    .container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 768px){
+    .container {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 576px){
+    .container {
+        max-width: 540px;
+    }
+} */

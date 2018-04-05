@@ -1,0 +1,38 @@
+.layout-container{
+  background: url('./assets/img/bg.jpg') !important;
+  bacjground-size: cover;
+}
+.cover{
+  background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.App-logo {
+  width: 150px;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.img-container{
+  text-align: center;
+  vertical-align: center;
+}
+.img-container img{
+  margin-top: 30px;
+  width: 60%;
+}
