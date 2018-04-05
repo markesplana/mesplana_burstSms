@@ -12,7 +12,7 @@ Setup Server
 ```sh
 
 cd server
-npm intall
+npm install
 
 ```
 
@@ -33,8 +33,8 @@ BURSTSMS_SEND_SMS_URL = send_sms_url
  back to root folder
 
  ```sh
- 
-npm intall
+
+npm install
 
 ```
 
