@@ -28,6 +28,15 @@ BURSTSMS_API_SECRET = secret
 BURSTSMS_SEND_SMS_URL = send_sms_url
 
 ```
+
+To setup client
+
+```sh
+
+cd ../
+
+```
+
  Setup Client 
 
  back to root folder
